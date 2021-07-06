@@ -1,6 +1,6 @@
 # 3D Audio Spectrogram in Python, Made with pyqtgraph and pyaudio
 
-Controls
+Controls <br />
 q/e = change xLength <br />
 a/s = change yLength <br />
 e/r = change xSize <br />
