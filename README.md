@@ -12,5 +12,5 @@ j/k = change smoothing factor
 o/p = change fft scalar
 m = toggle auto rotate
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Tangenten/3D-Audio-Spectrogram/blob/main/spectrogram.gif?raw=true)
 
